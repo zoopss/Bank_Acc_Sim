@@ -57,18 +57,7 @@ class BankAccount():
         
         #-------------main-----------------
         
-print" Welcome to ABC Bank"
-print"Functions defined in class BankAccount()"
-print"+ __init__ - Creates a new Account"
-print"Usage : obj_name = BankAccount("Name of Owner",initial_bal)"
-print"+_deposit_ - deposits money in your account"
-print"Usage : obj_name.deposit( amount)"
-print"+_withdraw_ - withdraws money from your account"
-print"Usage : obj_name.withdraw( amount )"
-print"+_loan_ - grands you a loan "
-print"Usage : obj_name.loan(amount )"
-print"+_statement_ - lists or the transactions done on your account"
-print"Usage : obj_name.statement()"
-print"+_del_ - closes your account"
-print"Usage : del obj_name"
-
+print 'Welcome to ABC Bank'
+print 'What do you want to do ?'
+print '1. Open a new account'
+print '2. Deposit Money into an account'
