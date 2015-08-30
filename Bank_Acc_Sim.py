@@ -61,3 +61,7 @@ print 'Welcome to ABC Bank'
 print 'What do you want to do ?'
 print '1. Open a new account'
 print '2. Deposit Money into an account'
+print '3. Withdraw Money from your account'
+print '4. Take a loan'
+print '5. Generate a statement'
+
