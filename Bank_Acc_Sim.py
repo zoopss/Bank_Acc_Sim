@@ -65,3 +65,8 @@ print '3. Withdraw Money from your account'
 print '4. Take a loan'
 print '5. Generate a statement'
 
+choice = int(raw_input("Enter your choice..."))
+if choice==1 :
+    print 'Enter Your Name',
+    name = raw_input('')
+
